@@ -431,6 +431,11 @@
   .gallery-image {
     position: relative;
     overflow: hidden;
+    width: 70%;
+    height: 50%;
+    border-radius: 5vw;
+    left: 15%;
+    top: 5%;
   }
   
   .gallery-image img {
